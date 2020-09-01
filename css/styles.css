@@ -5,12 +5,13 @@
 }
 
 h1 {
-  font-family: Times New Roman, fantasy;
-  color: #FFFF00;
+  font-family: Brushstroke, fantasy;
+  color: #000000;
 }
 
 body {
-  background-color: #8B0000;
+  background-image: url("background.jpg");
+  background-color: #FEF5CA;
 
 }
 
@@ -33,8 +34,8 @@ section {
   background-color: #00FF99;
   width: 100%;
   height: auto;
-  font-family: Times New Roman;
-  color: purple;
+  font-family: Helvetica;
+  color: black;
   position: relative;
   overflow: auto;
 }
@@ -78,6 +79,7 @@ section {
   margin-bottom: 0;
   margin-top: 0;
   background-color: #6495ED;
+  color: white;
   padding: 5px;
 }
 
@@ -104,9 +106,8 @@ section {
 
 #header-nav {
   border: 0;
-  background-color: #008080  ;
+  background-color: #FC5F06;
   color: #FFFFFF;
-  height: 85px;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
